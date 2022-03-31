@@ -3,6 +3,6 @@
 Prva vježba iz kolegija Web aplikacije.
 Vue.js aplikacija koja prikazuje commitove vuesjs repozitorija.
 
-## Podaci o studentu
+## Podaci o studentu: 
 
-Sandi Blekić, 0303075866
+Lara Martinčević, 030
