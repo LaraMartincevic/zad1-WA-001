@@ -3,6 +3,6 @@
 Prvi zadatak iz kolegija Web aplikacije.
 Vue.js aplikacija koja prikazuje commitove vuesjs repozitorija.
 
-## Podaci o studentu: //lakaf
+## Podaci o studentu:
 
-Lara Martinčević, 030
+Lara Martinčević, 0303090390
