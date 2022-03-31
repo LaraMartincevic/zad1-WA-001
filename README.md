@@ -1,4 +1,4 @@
-# wa-001-get_commits
+# wa-001
 
 Prvi zadatak:
 Vue.js aplikacija koja prikazuje commitove vuesjs repozitorija.
